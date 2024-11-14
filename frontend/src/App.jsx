@@ -7,7 +7,7 @@ function App() {
   return (
     <>
       <div className="flex bg-red-300 text-blue-500 text-4xl min-h-screen ">
-        <h1>Hello World</h1>
+        <h1>Hello </h1>
       </div>
 
     </>
